@@ -28,22 +28,34 @@ gh repo clone devreyakan/arackutusu
   
 ## Optimizasyon
 
-.NET Framework 4.7.2 ve üzeri kurulu Windows tabanlı cihazlarda çalışmakta, ayrıca sanal bilgisayarla ile çalışmasında tespit edilen bir problem bulunmamakta.
+.NET Framework 4.8 ve üzeri kurulu Windows tabanlı cihazlarda çalışmakta, ayrıca sanal bilgisayarla ile çalışmasında tespit edilen bir problem bulunmamakta.
 
     Windows 7✔️
     Windows 8 / 8.1✔️
     Windows 10✔️
     Windows 11✔️
     
-## Araçlar ve Özellikler
+## Araçlar ve Özellik Güncellemeleri
 
-Son sürüm(v2) ile birlikte avrdude eklenmiştir, bu sayede .HEX dosyalarını atmel mikrodenetleyicilerine yükleyebilirsiniz.(v2)
+-V3-
+
+Karanlık arayüze geçiş yapılmıştır.(v3)
+
+LCD Ekran Simülasyonu ve LCD Özel karakter oluşturma kısmı eklenmiştir.(v3)
+
+555 Zamanlayacı(astable-monostable) hesaplama kısmı eklenmiştir.(v3)
+
+-V2-
+
+V2 ile birlikte avrdude eklenmiştir, bu sayede .HEX dosyalarını atmel mikrodenetleyicilerine yükleyebilirsiniz.(v2)
 
 LED hesaplama aracı ile birlikte, seri ya da paralel bağlı LED modülleri için direnç ve güç hesabı yapabilirsiniz.(v2)
 
+-V1-
+
 OHM Kanunu Hesaplama ile 2 bilinen değer ile istediğiniz bilinmeyen değeri bulabilirsiniz(v1)
 
-Seri ekran ile, geliştirme kartınıza ya da benzeri COM Port kullanan cihazlara istediğiniz hızda veri göndereiblir ve alabilirsiniz.(v1)
+Seri ekran ile, geliştirme kartınıza ya da benzeri COM Port kullanan cihazlara istediğiniz hızda veri gönderebilir ve alabilirsiniz.(v1)
 
 Otomatik güncelleme servisi.(v1)
 ## Ekran Görüntüleri
@@ -55,5 +67,5 @@ Otomatik güncelleme servisi.(v1)
 ![HEX Yükleme Programı](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/Hex.png)
 ![LCD Ekran Simülasyonu](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/LCD%20Ekran%20Simulasyonu.png)
 ![LCD Ekran Özel Karakter](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/LCD%20Ozel%20Karakter.png)
-![555 Hesaplayıcı]()
+![555 Hesaplayıcı](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/555.png)
   
