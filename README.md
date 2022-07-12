@@ -68,4 +68,3 @@ Otomatik güncelleme servisi.(v1)
 ![LCD Ekran Simülasyonu](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/LCD%20Ekran%20Simulasyonu.png)
 ![LCD Ekran Özel Karakter](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/LCD%20Ozel%20Karakter.png)
 ![555 Hesaplayıcı](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/555.png)
-  
