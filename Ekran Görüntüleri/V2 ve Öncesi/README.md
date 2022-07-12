@@ -1,0 +1,1 @@
+Eski ekran görüntüleri.
