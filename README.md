@@ -1,7 +1,7 @@
 
 # devreyakan Araç Kutusu
 
-devreyakan Araç Kutusu programı, maker* ve meraklılar için oluşturulmuş çoklu program bütünüdür. Günlük kullanımda ihtiyaç duyulabilecek hesaplamalar, dönüştürmeler, seri konsol çıktıları gibi bir çok bileşeni içersinde barındırır. Güncellemelere ve geliştirilmeye sürekli devam edilecek bir uygulamadır.
+devreyakan Araç Kutusu programı, maker* ve meraklılar için oluşturulmuş katılımsız çoklu program bütünüdür. Günlük kullanımda ihtiyaç duyulabilecek hesaplamalar, dönüştürmeler, seri konsol çıktıları gibi bir çok bileşeni içersinde barındırır. Güncellemelere ve geliştirilmeye sürekli devam edilecek bir uygulamadır.
 
 İnternet bağlantınız olmadan bu programı kullanabilirsiniz, sadece güncel son 10 devreyakan.com yazısına ulaşamazsınız. 
 
