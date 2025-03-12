@@ -39,34 +39,30 @@ gh repo clone devreyakan/arackutusu
 
 -V4-
 
-Devreyakan RSS Feed için kullanılan 3. parti DLL kaldırılmış ve yerine Winq.XML kullanılmıştır.
-RSS Feed, daha sade bir yapıya dönüştürülmüştür.
-HEX yükleme aracındaki bellek taşma hatası düzeltilmiştir.
-Sürüm takibi ve güncel sürümün indirilmesi işlemleri tamamen GitHub üzerinden yapılmaktadır.
-LCD Ekran Simülasyonu kodları iyileştirilmiştir.
-Çeşitli hata düzeltmeleri yapılmıştır.
+
++ Devreyakan RSS Feed için kullanılan 3. parti DLL kaldırılmış ve yerine Winq.XML kullanılmıştır.
++ RSS Feed, daha sade bir yapıya dönüştürülmüştür.
++ HEX yükleme aracındaki bellek taşma hatası düzeltilmiştir.
++ Sürüm takibi ve güncel sürümün indirilmesi işlemleri tamamen GitHub üzerinden yapılmaktadır.
++ LCD Ekran Simülasyonu kodları iyileştirilmiştir.
++ Çeşitli hata düzeltmeleri yapılmıştır.
 
 -V3-
 
-Karanlık arayüze geçiş yapılmıştır.(v3)
-
-LCD Ekran Simülasyonu ve LCD Özel karakter oluşturma kısmı eklenmiştir.(v3)
-
-555 Zamanlayacı(astable-monostable) hesaplama kısmı eklenmiştir.(v3)
++ Karanlık arayüze geçiş yapılmıştır.(v3)
++ LCD Ekran Simülasyonu ve LCD Özel karakter oluşturma kısmı eklenmiştir.(v3)
++ 555 Zamanlayacı(astable-monostable) hesaplama kısmı eklenmiştir.(v3)
 
 -V2-
 
-V2 ile birlikte avrdude eklenmiştir, bu sayede .HEX dosyalarını atmel mikrodenetleyicilerine yükleyebilirsiniz.(v2)
-
-LED hesaplama aracı ile birlikte, seri ya da paralel bağlı LED modülleri için direnç ve güç hesabı yapabilirsiniz.(v2)
++ V2 ile birlikte avrdude eklenmiştir, bu sayede .HEX dosyalarını atmel mikrodenetleyicilerine yükleyebilirsiniz.(v2)
++ LED hesaplama aracı ile birlikte, seri ya da paralel bağlı LED modülleri için direnç ve güç hesabı yapabilirsiniz.(v2)
 
 -V1-
 
-OHM Kanunu Hesaplama ile 2 bilinen değer ile istediğiniz bilinmeyen değeri bulabilirsiniz(v1)
-
-Seri ekran ile, geliştirme kartınıza ya da benzeri COM Port kullanan cihazlara istediğiniz hızda veri gönderebilir ve alabilirsiniz.(v1)
-
-Otomatik güncelleme servisi.(v1)
++ OHM Kanunu Hesaplama ile 2 bilinen değer ile istediğiniz bilinmeyen değeri bulabilirsiniz(v1)
++ Seri ekran ile, geliştirme kartınıza ya da benzeri COM Port kullanan cihazlara istediğiniz hızda veri gönderebilir ve alabilirsiniz.(v1)
++ Otomatik güncelleme servisi.(v1)
 ## Ekran Görüntüleri
 
 ![Anasayfa](https://github.com/devreyakan/arackutusu/blob/main/Ekran%20Görüntüleri/Anasayfa.png?raw=true)
