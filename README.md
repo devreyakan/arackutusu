@@ -37,6 +37,15 @@ gh repo clone devreyakan/arackutusu
     
 ## Araçlar ve Özellik Güncellemeleri
 
+-V4-
+
+Devreyakan RSS Feed için kullanılan 3. parti DLL kaldırılmış ve yerine Winq.XML kullanılmıştır.
+RSS Feed, daha sade bir yapıya dönüştürülmüştür.
+HEX yükleme aracındaki bellek taşma hatası düzeltilmiştir.
+Sürüm takibi ve güncel sürümün indirilmesi işlemleri tamamen GitHub üzerinden yapılmaktadır.
+LCD Ekran Simülasyonu kodları iyileştirilmiştir.
+Çeşitli hata düzeltmeleri yapılmıştır.
+
 -V3-
 
 Karanlık arayüze geçiş yapılmıştır.(v3)
