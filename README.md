@@ -40,7 +40,7 @@ gh repo clone devreyakan/arackutusu
 -V4-
 
 
-+ Devreyakan RSS Feed için kullanılan 3. parti DLL kaldırılmış ve yerine Winq.XML kullanılmıştır.
++ Devreyakan RSS Feed için kullanılan 3. parti DLL kaldırılmış ve yerine System.Xml.Linq kullanılmıştır.
 + RSS Feed, daha sade bir yapıya dönüştürülmüştür.
 + HEX yükleme aracındaki bellek taşma hatası düzeltilmiştir.
 + Sürüm takibi ve güncel sürümün indirilmesi işlemleri tamamen GitHub üzerinden yapılmaktadır.
