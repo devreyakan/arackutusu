@@ -1,3 +1,16 @@
+# ⚠️ PROJE TAŞINDI / PROJECT MOVED
+
+**Bu depo (repository) artık arşivlenmiş durumdadır ve bakım modundadır.**
+
+Proje, tamamen **Açık Kaynak** mimarisine geçiş yapmış olup; **Windows, Linux ve macOS** desteğiyle sıfırdan Python (PyQt6) ile yeniden yazılmıştır. Eski C# sürümüne artık güncelleme gelmeyecektir.
+
+🚀 **Yeni ve güncel sürüme ulaşmak için:**
+[**devreyakan/arackutusu (Open Source Edition - OSE)**](https://github.com/sinanyuzgulec/devreyakan-arackutusu)
+
+Yeni repoyu klonlamak için:
+```bash
+git clone https://github.com/sinanyuzgulec/devreyakan-arackutusu.git
+```
 
 # devreyakan Araç Kutusu
 
